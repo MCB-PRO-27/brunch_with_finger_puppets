@@ -32,7 +32,7 @@ Brunch with FingerPuppets is a [Brunch](http://brunch.io/) app skeleton.
     
 or
 
-    $ git clone git@github.com/reduxdj/brunch_with_foo.git
+    $ git clone git@github.com/reduxdj/brunch_with_finger_puppets.git
     $ cd brunch_with_foo
     $ npm install
     $ brunch new <appname>
