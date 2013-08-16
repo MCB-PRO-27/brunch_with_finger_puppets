@@ -40,7 +40,7 @@ or
     $ brunch w -s
 
 or
-    $ git clone git://github.com/reduxdj/brunch_with_finger_puppets.git && cd brunch_with_finger_puppets && sudo npm -gg install && brunch w -s
+    $ git clone git://github.com/reduxdj/brunch_with_finger_puppets.git && cd brunch_with_finger_puppets && sudo npm -g install && brunch w -s
 
 ## Example for generating a new application actor
 
