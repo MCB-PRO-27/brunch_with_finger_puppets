@@ -1,0 +1,42 @@
+// Base Styles
+
+*
+  box-sizing: border-box
+
+@font-face
+  font-family "Avenir Light"
+  src url( '../fonts/avenir_light.ttf' )
+
+
+@font-face
+  font-family "Avenir Medium"
+  src url( '../fonts/avenir_medium.ttf' )
+
+@font-face
+  font-family "Avenir Bold"
+  src url( '../fonts/avenir_heavy.ttf' )
+
+html,
+body
+    height 100%
+    width 100%
+
+body
+    text-rendering optimizeLegibility
+
+ul, ol 
+  list-style none
+
+body,
+input
+    color #444
+    font 300 16px "Avenir Medium"
+    line-height 1.2
+
+a,
+a:visited
+    color #0086cc
+    text-decoration none
+
+    &:hover
+        text-decoration underline
