@@ -1,8 +1,7 @@
-# Brunch with Foo(-Fighters) and Bootstrap
+# Brunch with FingerPuppets and Foundation
 
-![image](http://www.golyr.de/artist_imgs/artists/4593/4593_image_17.jpg)
 
-Brunch with Foo(-Fighters) is a [Brunch](http://brunch.io/) app skeleton. 
+Brunch with FingerPuppets is a [Brunch](http://brunch.io/) app skeleton. 
 
 ## Toolbox
 
